@@ -1,7 +1,7 @@
 # Hello People
 - My name is Ali and I'm 17
-- 4 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, python, C++]
-- Discord adresim: selim#1337, [discord.gg/scourgehub](davet link)
+- Im interested in Front end
+- My Discord Name: ! 1NO#0001, [discord.gg/scourgehub](davet link)
 - Web Sitem: [https://selim1337.vercel.app/](https://scourge.vpssolutions.xyz/api/key)
 - Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
 - Everything you can imagine is real -
