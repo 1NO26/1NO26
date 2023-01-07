@@ -1,6 +1,5 @@
 # Hello People
 - My name is Ali and I'm 17
-- My Discord Name: ! 1NO#0001, [discord.gg/scourgehub](davet link)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-quare&labelColor=5865F2&logo=discord&logoColor=white&link=discord.gg/scourgehub)](link)
