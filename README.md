@@ -1,6 +1,5 @@
 # Hello People
 - My name is Ali and I'm 17
-- Im interested in Front end
 - My Discord Name: ! 1NO#0001, [discord.gg/scourgehub](davet link)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
