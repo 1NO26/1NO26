@@ -2,9 +2,6 @@
 - My name is Ali and I'm 17
 - Im interested in Front end
 - My Discord Name: ! 1NO#0001, [discord.gg/scourgehub](davet link)
-- Web Sitem: [https://selim1337.vercel.app/](https://scourge.vpssolutions.xyz/api/key)
-- Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
-- Everything you can imagine is real -
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-quare&labelColor=5865F2&logo=discord&logoColor=white&link=discord.gg/scourgehub)](link)
