@@ -1,4 +1,4 @@
-# Hello People
+# Hello,
 - I'm 1NO and I'm 17
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
